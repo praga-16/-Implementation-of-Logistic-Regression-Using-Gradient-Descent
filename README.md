@@ -30,12 +30,12 @@ Predict the values of array
 Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 
 # Program:
-```python
+```
 
 Program to implement the the Logistic Regression Using Gradient Descent.
 
-Developed by: Monisha T
-RegisterNumber: 212221240029
+Developed by: pragatheesvaran AB
+RegisterNumber: 212221240039
 
 
 import numpy as np
