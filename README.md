@@ -36,7 +36,8 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 
 Developed by: pragatheesvaran AB
 RegisterNumber: 212221240039
-
+```
+```
 
 import numpy as np
 import matplotlib.pyplot as plt
